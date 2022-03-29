@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="ui-draft.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1.5417344"
+     inkscape:cx="411.87381"
+     inkscape:cy="318.4725"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="1440"
+     inkscape:window-y="385"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g24910"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="LoginWindow"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Botones" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="LogContainer">
+      <g
+         id="g24910">
+        <g
+           id="g1448"
+           style="stroke:#333333"
+           inkscape:label="Fondo">
+          <rect
+             style="fill:#cccccc;stroke:#333333;stroke-width:0.264583;stroke-linecap:round"
+             id="rect978"
+             width="48.519035"
+             height="31.417295"
+             x="19.505596"
+             y="74.621071"
+             rx="2.1697607"
+             ry="2.1697607" />
+        </g>
+        <path
+           id="rect1082"
+           style="fill:#999999;stroke:#333333;stroke-width:0.999999;stroke-linecap:round"
+           d="m 81.921875,282.0332 c -4.543171,0 -8.199219,3.65605 -8.199219,8.19922 v 1.01172 H 257.10156 v -1.01172 c 0,-4.54317 -3.658,-8.19922 -8.20117,-8.19922 z"
+           inkscape:label="Marco"
+           transform="scale(0.26458333)" />
+        <circle
+           style="fill:#99ff55;stroke-width:0.264583;stroke-linecap:round"
+           id="circle1686"
+           cx="26.313078"
+           cy="75.91819"
+           r="0.63968629" />
+        <circle
+           style="fill:#ffdd55;stroke-width:0.264583;stroke-linecap:round"
+           id="circle1684"
+           cx="24.565586"
+           cy="75.91819"
+           r="0.63968629" />
+        <circle
+           style="fill:#d35f5f;stroke-width:0.264583;stroke-linecap:round"
+           id="path1584"
+           cx="22.762108"
+           cy="75.91819"
+           r="0.63968629" />
+        <g
+           id="g23638"
+           transform="translate(0,-2.3346664)">
+          <rect
+             style="fill:#b3b3b3;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+             id="rect11801"
+             width="21.697153"
+             height="2.7102308"
+             x="41.651554"
+             y="92.908478"
+             rx="1.4967369"
+             ry="2.1697607" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="28.942822"
+             y="95.311066"
+             id="text5624"><tspan
+               sodipodi:role="line"
+               id="tspan5622"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';fill:#4d4d4d;stroke-width:0.264583"
+               x="28.942822"
+               y="95.311066">Usuario</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="23.816896"
+             y="99.393585"
+             id="text17478"><tspan
+               sodipodi:role="line"
+               id="tspan17476"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';fill:#4d4d4d;stroke-width:0.264583"
+               x="23.816896"
+               y="99.393585">Contraseña</tspan></text>
+          <rect
+             style="fill:#b3b3b3;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+             id="rect19142"
+             width="21.697153"
+             height="2.7102308"
+             x="41.651554"
+             y="96.86013"
+             rx="1.4967369"
+             ry="2.1697607" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="27.585526"
+             y="86.776611"
+             id="text62571"><tspan
+               sodipodi:role="line"
+               id="tspan62569"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';fill:#000000;stroke-width:0.264583"
+               x="27.585526"
+               y="86.776611">Usuario</tspan></text>
+        </g>
+        <rect
+           style="fill:#80ff80;stroke:#808080;stroke-width:0.264583;stroke-linecap:round"
+           id="rect23662"
+           width="9.7720833"
+           height="4.8538995"
+           x="39.51355"
+           y="99.390808"
+           rx="1.4967374"
+           ry="1.0820109" />
+        <g
+           id="g24421"
+           transform="matrix(0.00756457,0,0,0.00756457,42.699002,99.872105)"
+           style="fill:#ffffff;stroke-width:34.9767">
+          <path
+             d="M 368,0 C 306.242,0 256,50.242 256,112 V 224 H 64 c -17.672,0 -32,14.328 -32,32 v 224 c 0,17.672 14.328,32 32,32 h 288 c 17.672,0 32,-14.328 32,-32 V 256 c 0,-17.672 -14.328,-32 -32,-32 H 320 V 112 c 0,-26.469 21.531,-48 48,-48 26.469,0 48,21.531 48,48 v 80 c 0,17.672 14.328,32 32,32 17.672,0 32,-14.328 32,-32 V 112 C 480,50.242 429.758,0 368,0 Z M 224,397.063 V 432 c 0,8.836 -7.164,16 -16,16 -8.836,0 -16,-7.164 -16,-16 v -34.938 c -18.602,-6.613 -32,-24.195 -32,-45.063 0,-26.512 21.488,-48 48,-48 26.512,0 48,21.488 48,48 0,20.868 -13.398,38.45 -32,45.064 z"
+             id="path24368"
+             style="fill:#ffffff;stroke-width:34.9767" />
+          <g
+             id="g24370"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24372"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24374"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24376"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24378"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24380"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24382"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24384"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24386"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24388"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24390"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24392"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24394"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24396"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+          <g
+             id="g24398"
+             style="fill:#ffffff;stroke-width:34.9767">
+</g>
+        </g>
+        <rect
+           style="fill:#f2f2f2;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+           id="rect24734"
+           width="39.346397"
+           height="10.492366"
+           x="23.850597"
+           y="78.624481"
+           rx="1.4967374"
+           ry="1.0820109" />
+      </g>
+      <g
+         id="g24976"
+         transform="translate(58.807779,0.25129246)">
+        <g
+           id="g24914"
+           style="stroke:#333333"
+           inkscape:label="Fondo">
+          <rect
+             style="fill:#cccccc;stroke:#333333;stroke-width:0.264583;stroke-linecap:round"
+             id="rect24912"
+             width="48.519035"
+             height="31.417295"
+             x="19.505596"
+             y="74.621071"
+             rx="2.1697607"
+             ry="2.1697607" />
+        </g>
+        <path
+           id="path24916"
+           style="fill:#999999;stroke:#333333;stroke-width:0.999999;stroke-linecap:round"
+           d="m 81.921875,282.0332 c -4.543171,0 -8.199219,3.65605 -8.199219,8.19922 v 1.01172 H 257.10156 v -1.01172 c 0,-4.54317 -3.658,-8.19922 -8.20117,-8.19922 z"
+           inkscape:label="Marco"
+           transform="scale(0.26458333)" />
+        <circle
+           style="fill:#99ff55;stroke-width:0.264583;stroke-linecap:round"
+           id="circle24918"
+           cx="26.313078"
+           cy="75.91819"
+           r="0.63968629" />
+        <circle
+           style="fill:#ffdd55;stroke-width:0.264583;stroke-linecap:round"
+           id="circle24920"
+           cx="24.565586"
+           cy="75.91819"
+           r="0.63968629" />
+        <circle
+           style="fill:#d35f5f;stroke-width:0.264583;stroke-linecap:round"
+           id="circle24922"
+           cx="22.762108"
+           cy="75.91819"
+           r="0.63968629" />
+        <rect
+           style="fill:#999999;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+           id="rect25218"
+           width="10.812784"
+           height="3.1541865"
+           x="29.258802"
+           y="78.712135"
+           rx="1.4967374"
+           ry="1.0820109" />
+        <rect
+           style="fill:#999999;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+           id="rect25220"
+           width="10.235852"
+           height="3.1541865"
+           x="41.540222"
+           y="78.712135"
+           rx="1.4967374"
+           ry="1.0820109" />
+        <rect
+           style="fill:#999999;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+           id="rect25222"
+           width="11.304903"
+           height="3.1541865"
+           x="53.644779"
+           y="78.712135"
+           rx="1.4967374"
+           ry="1.0820109" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text';fill:#ffffff;stroke-width:0.264583"
+           x="30.817238"
+           y="80.850288"
+           id="text30610"><tspan
+             sodipodi:role="line"
+             id="tspan30608"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text';fill:#ffffff;stroke-width:0.264583"
+             x="30.817238"
+             y="80.850288">Agregar</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text';fill:#ffffff;stroke-width:0.264583"
+           x="44.156342"
+           y="80.933823"
+           id="text32906"><tspan
+             sodipodi:role="line"
+             id="tspan32904"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text';fill:#ffffff;stroke-width:0.264583"
+             x="44.156342"
+             y="80.933823">Editar</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text';fill:#ffffff;stroke-width:0.264583"
+           x="55.956287"
+           y="80.933823"
+           id="text34288"><tspan
+             sodipodi:role="line"
+             id="tspan34286"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text';fill:#ffffff;stroke-width:0.264583"
+             x="55.956287"
+             y="80.933823">Eliminar</tspan></text>
+        <rect
+           style="fill:#b3b3b3;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+           id="rect36087"
+           width="42.356121"
+           height="19.906197"
+           x="22.64831"
+           y="83.580704"
+           rx="1.4967374"
+           ry="1.0820107" />
+        <rect
+           style="fill:#808080;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+           id="rect50111"
+           width="5.0992479"
+           height="3.1541865"
+           x="22.662472"
+           y="78.712135"
+           rx="0.48888877"
+           ry="0.48722681" />
+        <rect
+           style="fill:#e6e6e6;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+           id="rect50991"
+           width="2.895987"
+           height="0.39249924"
+           x="23.671633"
+           y="79.324211"
+           rx="0.20695689"
+           ry="0.36720726" />
+        <rect
+           style="fill:#e6e6e6;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+           id="rect51073"
+           width="2.895987"
+           height="0.39249924"
+           x="23.671633"
+           y="80.833572"
+           rx="0.20695689"
+           ry="0.36720726" />
+        <rect
+           style="fill:#e6e6e6;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+           id="rect51075"
+           width="2.895987"
+           height="0.39249924"
+           x="23.671633"
+           y="80.086136"
+           rx="0.20695689"
+           ry="0.36720726" />
+        <g
+           id="g51421"
+           style="stroke:#333333;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:label="Fondo"
+           transform="translate(54.299972)">
+          <rect
+             style="fill:#cccccc;stroke:#333333;stroke-width:0.3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect51419"
+             width="17.283476"
+             height="31.417295"
+             x="19.505596"
+             y="74.621071"
+             rx="2.1697607"
+             ry="2.1697607" />
+        </g>
+        <rect
+           style="fill:#ff8080;stroke:#808080;stroke-width:0.264583;stroke-linecap:round"
+           id="rect23662-9"
+           width="14.276787"
+           height="4.8538995"
+           x="75.245216"
+           y="99.862259"
+           rx="1.4967372"
+           ry="1.0820109" />
+        <path
+           style="fill:#ffffff;stroke-width:1"
+           d="m 83.690579,104.10388 c 0.125991,-0.0214 0.233523,-0.11425 0.27753,-0.23964 l 0.01333,-0.038 0.0013,-0.79287 c 0.0012,-0.7131 5.53e-4,-0.79668 -0.0063,-0.83084 -0.02642,-0.13136 -0.122013,-0.23236 -0.2563,-0.27078 -0.02233,-0.006 -0.05513,-0.009 -0.155316,-0.0104 l -0.127001,-0.002 -3.8e-5,-0.28555 c -4.7e-5,-0.33574 -0.0039,-0.38477 -0.041,-0.52052 -0.07398,-0.27074 -0.236286,-0.47265 -0.458317,-0.57014 -0.128331,-0.0563 -0.241179,-0.0776 -0.412206,-0.0776 -0.143018,0 -0.237218,0.0138 -0.342436,0.05 -0.295343,0.10178 -0.486297,0.34644 -0.55354,0.70925 -0.01231,0.0664 -0.01232,0.0667 -0.01425,0.3805 l -0.0019,0.31403 -0.126699,0.002 c -0.112694,0.002 -0.130625,0.003 -0.162229,0.0127 -0.09909,0.0292 -0.177446,0.0957 -0.221414,0.18785 -0.03725,0.0781 -0.03504,0.0217 -0.03501,0.89594 3.3e-5,0.75272 3.52e-4,0.78134 0.0091,0.818 0.01163,0.0485 0.02387,0.0768 0.05053,0.11687 0.04283,0.0644 0.111445,0.11478 0.194289,0.14259 l 0.03323,0.0112 1.156067,6.6e-4 c 0.635837,3.6e-4 1.166187,-0.001 1.178555,-0.003 z m -1.252572,-0.73577 c -0.127947,-0.0323 -0.227032,-0.12981 -0.264029,-0.25974 -0.01486,-0.0522 -0.01486,-0.13575 0,-0.18793 0.01367,-0.048 0.03732,-0.0945 0.06664,-0.13104 0.07234,-0.0901 0.171582,-0.13813 0.285646,-0.13813 0.16526,0 0.306337,0.10779 0.35229,0.26917 0.01486,0.0522 0.01486,0.13574 0,0.18793 -0.03688,0.1295 -0.135053,0.22672 -0.262083,0.25952 -0.04963,0.0128 -0.128259,0.0129 -0.178467,2.2e-4 z m -0.45651,-1.77683 c 0.0016,-0.27894 0.003,-0.33528 0.0097,-0.37165 0.01213,-0.0666 0.0303,-0.12351 0.0544,-0.17049 0.01798,-0.035 0.03048,-0.0514 0.06742,-0.0883 0.06537,-0.0653 0.128597,-0.0963 0.244494,-0.11965 0.04577,-0.009 0.06733,-0.0106 0.168793,-0.0106 0.12569,0 0.178984,0.007 0.254252,0.0324 0.132574,0.0451 0.222227,0.13844 0.260785,0.27149 0.02729,0.0942 0.02773,0.10087 0.02973,0.45682 l 0.0019,0.32878 h -0.546704 -0.546624 z"
+           id="path51715" />
+        <rect
+           style="fill:#999999;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+           id="rect52089"
+           width="12.63135"
+           height="5.0216703"
+           x="76.137154"
+           y="76.31115"
+           rx="1.4967374"
+           ry="1.0820109" />
+        <rect
+           style="fill:#999999;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+           id="rect52091"
+           width="12.63135"
+           height="5.0216703"
+           x="76.137154"
+           y="81.976967"
+           rx="1.4967374"
+           ry="1.0820109" />
+        <rect
+           style="fill:#999999;stroke:none;stroke-width:0.264583;stroke-linecap:round"
+           id="rect52093"
+           width="12.63135"
+           height="5.0216703"
+           x="76.137154"
+           y="87.666145"
+           rx="1.4967374"
+           ry="1.0820109" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text';fill:#ffffff;stroke-width:0.264583"
+           x="77.554222"
+           y="79.453484"
+           id="text52164"><tspan
+             sodipodi:role="line"
+             id="tspan52162"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text';fill:#ffffff;stroke-width:0.264583"
+             x="77.554222"
+             y="79.453484">Proveedores</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text';fill:#ffffff;stroke-width:0.264583"
+           x="79.215164"
+           y="85.0625"
+           id="text55034"><tspan
+             sodipodi:role="line"
+             id="tspan55032"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text';fill:#ffffff;stroke-width:0.264583"
+             x="79.215164"
+             y="85.0625">Articulos</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text';fill:#ffffff;stroke-width:0.264583"
+           x="76.634254"
+           y="90.672417"
+           id="text55038"><tspan
+             sodipodi:role="line"
+             id="tspan55036"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text';fill:#ffffff;stroke-width:0.264583"
+             x="76.634254"
+             y="90.672417">Medicamentos</tspan></text>
+        <rect
+           style="fill:none;stroke:none;stroke-width:54.778;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect61237"
+           width="10.247373"
+           height="3.509388"
+           x="22.68597"
+           y="84.899567"
+           rx="0"
+           ry="0" />
+      </g>
+    </g>
+  </g>
+</svg>
