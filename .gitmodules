@@ -1,0 +1,3 @@
+[submodule "ddbb-manager-backend"]
+	path = ddbb-manager-backend
+	url = git@github.com:alexaib2002/ddbb-manager-backend.git
